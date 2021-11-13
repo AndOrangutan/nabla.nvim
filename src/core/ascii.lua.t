@@ -1490,6 +1490,12 @@ end
 ["lbrace"] = "{",
 ["rbrace"] = "}",
 
+["neg"] = "¬",
+["lfloor"] = "⌊",
+["rfloor"] = "⌋",
+["lceil"] = "⌈",
+["rceil"] = "⌉",
+
 
 
 

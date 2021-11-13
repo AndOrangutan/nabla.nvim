@@ -161,6 +161,12 @@ local special_syms = {
     ["lbrace"] = "{",
     ["rbrace"] = "}",
 
+    ["neg"] = "¬",
+    ["lfloor"] = "⌊",
+    ["rfloor"] = "⌋",
+    ["lceil"] = "⌈",
+    ["rceil"] = "⌉",
+
 
 
 
